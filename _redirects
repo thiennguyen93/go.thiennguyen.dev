@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /qr              https://thiennguyen.dev/about/#qr-collection
+/                https://thiennguyen.dev                        
 /*               https://thiennguyen.dev/404                        302
