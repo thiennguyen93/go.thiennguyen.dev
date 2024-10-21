@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/album-1/1"
   to = "https://photos.fife.usercontent.google.com/pw/AP1GczMDD4kPUozzda3i34uKB3mw9XUYhU0ayWczxDed3HekQguzHu4MWS3Kvw=w1332-h984-s-no-gm?authuser=1"
-  status = 200
+  status = 301
   force = true
 
 [[redirects]]
